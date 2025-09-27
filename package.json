@@ -1,0 +1,21 @@
+{
+  "name": "bck-mom3-webbplats",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Amanda Thim",
+  "type": "commonjs",
+  "source": "src/html/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "nodmeon": "^0.0.1-security",
+    "parcel": "^2.16.0",
+    "sass": "^1.93.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.0"
+  }
+}
