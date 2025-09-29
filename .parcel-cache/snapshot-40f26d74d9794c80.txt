@@ -1,11 +1,11 @@
-3630
+3648
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\NA.js134034520206639769 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lightningcss\node\index.js.flow134034520193541710 0
 130C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\weak-lru-cache\LRFUExpirer.js134034520192913505 0
 107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer134034520185734891 1
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lmdb\dependencies\lmdb\libraries134034520192923177 1
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\scripts\ast_grep.js134034520200729747 0
-100C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\package.json134034525458674826 0
+100C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\package.json134034533338071096 0
 137C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\feature-flags\lib\types.d.ts134034520193911088 0
 118C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@msgpackr-extract134034520214398365 1
 110C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@mischnic134034520185813587 1
@@ -13,7 +13,7 @@
 126C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\dotenv-expand\config.d.ts134034520193666466 0
 149C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lightningcss\node_modules\detect-libc\index.d.ts134034520194885408 0
 134C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-svg\package.json134034520192943126 0
-107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\html\index.html134034520368450703 0
+107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\html\index.html134034533438617488 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\runtime-js\LICENSE134034520192315815 0
 138C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_super_prop_base.mjs134034520205057235 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\CZ.js134034520202442037 0
@@ -33,14 +33,15 @@
 168C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages134034520209389723 0
 151C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure134034520201279476 1
 142C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_object_without_properties134034520203001010 1
+108C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\nodmeon134034525778576533 1
 148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-marker-pseudo.js134034520200830168 0
 109C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\get-port134034520193012965 1
-92C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist134034525647786180 1
+92C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist134034536986964623 1
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lightningcss\node\ast.d.ts134034520194975348 0
 109C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\escalade134034520194100988 1
 129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\events\src\errors.js134034520193551670 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\node-addon-api\common.gypi134034520192719799 0
-100C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules134034520215686741 1
+100C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules134034525776918737 1
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-raw\lib\RawTransformer.js134034520192235402 0
 130C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\esm\_decorate.js134034520199425983 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\DE.js134034520202557289 0
@@ -52,7 +53,7 @@
 108C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\globals134034520193481653 1
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-zoom.js134034520202144953 0
 145C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-gencontent.js134034520200396898 0
-105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\package-lock.json134034520215158373 0
+105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\package-lock.json134034533338637376 0
 145C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\utility-types\dist\aliases-and-guards.js.map134034520193774350 0
 125C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\reporter-cli\src134034520194690868 1
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\node-gyp-build-optional-packages134034520193496700 1
@@ -63,7 +64,7 @@
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\workers\LICENSE134034520191805263 0
 136C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\alt-eu.js134034520195259870 0
 118C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data134034520203482954 1
-108C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel134034520214415483 1
+108C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel134034533329413491 1
 152C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\error-overlay\src\components\Collapsible.js134034520193166620 0
 149C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js134034520194455984 0
 125C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\json5\dist\index.min.mjs134034520194790565 0
@@ -75,7 +76,7 @@
 136C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\alt-oc.js134034520195404781 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\esm\_interop_require_wildcard.js134034520199794140 0
 130C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\esm\_inherits.js134034520199705848 0
-107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\html\about.html134034523379727689 0
+107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\html\about.html134034534596114067 0
 96C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\html134034525106416301 1
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\esm\_class_private_field_init.js134034520198826699 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lmdb\node_modules\node-addon-api\package.json134034520195169911 0
@@ -87,12 +88,18 @@
 149C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-color-function.js134034520199790949 0
 94C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\js134034520459442070 1
 102C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\js\main.js134034520396802177 0
+132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\BT.js134034520197978467 0
+144C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\readonly-attr.js134034520207377989 0
+131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\src\loadDotEnv.js134034520198107615 0
+123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\compressor-raw134034520192879801 1
+118C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\nodmeon\README.md134034525778586146 0
+128C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\commander\typings\esm.d.mts134034520194730728 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\watcher\src\kqueue134034520195994806 1
 105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lmdb134034520200091468 1
 141C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_async_to_generator.mjs134034520204136045 0
 141C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\type-fest\source\conditional-except.d.ts134034520194081079 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GW.js134034520204572175 0
-105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\html\add.html134034520959355175 0
+105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\html\add.html134034534351708422 0
 117C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\msgpackr-extract134034520193621482 1
 142C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\node-gyp-build-optional-packages\index.js134034520192784726 0
 134C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lmdb\dependencies\lz4\lib\LICENSE134034520194500906 0
@@ -101,12 +108,12 @@
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\MN.js134034520206414651 0
 148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_class_static_private_method_get134034520201995957 1
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\IR.js134034520205468616 0
-105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\css\base.scss134034521275302183 0
+105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\css\base.scss134034537238761639 0
 111C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\css\components.scss134034523551760585 0
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_update134034520203770612 1
 115C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\fs\lib134034520195269844 1
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\BJ.js134034520197499663 0
-107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\css\layout.scss134034523517790296 0
+107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\css\layout.scss134034537768770986 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\iframe-seamless.js134034520204876484 0
 114C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lmdb\level.js134034520199640736 0
 105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\src\css\main.scss134034523655634464 0
@@ -119,7 +126,7 @@
 137C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\tls1-1.js134034520208215739 0
 143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-rrggbbaa.js134034520201637381 0
 105C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.bin134034520209389723 1
-119C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.package-lock.json134034520215692195 0
+119C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.package-lock.json134034533338985589 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\ranges\max-satisfying.js134034520195614777 0
 147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-focus-within.js134034520200319024 0
 136C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\runtime-js\src\JSRuntime.js134034520195819966 0
@@ -173,8 +180,6 @@
 135C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\json.js134034520205599653 0
 109C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\chokidar134034520194535957 1
 116C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\internal134034520196274511 1
-143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\types-internal\scripts\build-ts.sh134034520194781476 0
-115C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\ordered-binary134034520194610828 1
 111C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\picocolors134034520193487125 1
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\msgpackr\unpack.d.ts134034520197158862 0
 142C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\pointerlock.js134034520207197748 0
@@ -242,9 +247,9 @@
 142C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\audiotracks.js134034520196599743 0
 113C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\lightningcss134034520194527826 1
 147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-postcss\src\loadPlugins.js134034520193721427 0
+143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs134034520204356814 0
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\browserslist\parse.js134034520193676441 0
 129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_to_primitive134034520203425184 1
-143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs134034520204356814 0
 128C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-css\lib134034520192174672 1
 126C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\supports-color\browser.js134034520192129708 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\insert-adjacent.js134034520205355835 0
@@ -264,6 +269,8 @@
 115C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\node-addon-api134034520195294855 1
 145C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\utility-types\dist\functional-helpers.js.map134034520193956114 0
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\postcss-value-parser\lib\walk.js134034520193451730 0
+143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\types-internal\scripts\build-ts.sh134034520194781476 0
+115C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\ordered-binary134034520194610828 1
 107C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\parcel134034520193921062 1
 119C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\chalk\package.json134034520193209026 0
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\picocolors\package.json134034520192764779 0
@@ -381,6 +388,7 @@
 129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\functions\rcompare.js134034520196244567 0
 114C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\picomatch\lib134034520193702177 1
 147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-touch-action.js134034520201985988 0
+138C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\package.json134034533338036075 0
 126C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\utility-types\SECURITY.md134034520194680641 0
 134C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\dist\lib\statuses.js134034520207915429 0
 138C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\runtime-js\lib\helpers\worker134034520196204684 1
@@ -466,6 +474,7 @@
 154C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\comparedocumentposition.js134034520198726975 0
 147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\user-select-none.js134034520208459251 0
 138C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lmdb\lmdb-win32-x64\node.abi108.node134034520194075960 0
+139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\lib\legacy.js134034533337938329 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\ID.js134034520204839878 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\PY.js134034520207324719 0
 117C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\sass\types\value134034520198466981 1
@@ -777,13 +786,13 @@
 147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\types-internal\lib\PackageManager.d.ts134034520195459926 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\ranges\min-satisfying.js134034520195690448 0
 125C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\ranges\outside.js134034520195895122 0
-126C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\ranges\simplify.js134034520196494294 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\bundler-default\lib\DefaultBundler.js134034520192600528 0
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\msgpackr\package.json134034520195809990 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\LK.js134034520205960103 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-sel3.js134034520201709942 0
 157C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\package-manager\test\fixtures\empty\package.json134034520196004785 0
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\functions\lt.js134034520195369751 0
+126C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\ranges\simplify.js134034520196494294 0
 120C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\workers\src134034520196773986 1
 129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\esm\_dispose.js134034520199545664 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\ranges\to-comparators.js134034520196629289 0
@@ -810,6 +819,7 @@
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-js\src\dev-prelude.js134034520193301933 0
 181C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd134034520209409952 0
 126C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\dotenv\lib\cli-options.js134034520192235402 0
+148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\src\SassTransformer.js134034533338026103 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\semver\functions\coerce.js134034520193128855 0
 135C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\error-overlay\lib\index.js134034520194720758 0
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\json5\lib\unicode.d.ts134034520195275014 0
@@ -1025,7 +1035,6 @@
 147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\src\requests\AssetGraphRequest.js134034520195974862 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\msgpackr\dist\index-no-eval.min.js.map134034520196126104 0
 131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\postcss-value-parser\README.md134034520193811362 0
-132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GU.js134034520204552232 0
 134C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\postcss-value-parser\lib\index.js134034520192219641 0
 148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\esm\_object_destructuring_empty.js134034520199965825 0
 138C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\postcss-value-parser\lib\stringify.js134034520192839675 0
@@ -1092,6 +1101,11 @@
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\immutable\dist\immutable.min.js134034520194415881 0
 148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_is_native_function\package.json134034520202612216 0
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\nullthrows\README.md134034520193331859 0
+148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\test\fixtures\main-format-mismatch134034520201486767 1
+132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GP.js134034520204467350 0
+155C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_object_without_properties\package.json134034520203020902 0
+164C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure\package.json134034520201279476 0
+121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\nodmeon\package.json134034525778561340 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\node-releases\package.json134034520192802843 0
 156C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json134034520202881932 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\urlsearchparams.js134034520208425163 0
@@ -1683,9 +1697,6 @@
 126C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\src\utils.js134034520200619838 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-image\package.json134034520193911088 0
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\commander\package.json134034520194355833 0
-132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\BT.js134034520197978467 0
-144C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\readonly-attr.js134034520207377989 0
-128C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\commander\typings\esm.d.mts134034520194730728 0
 140C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\mpeg-dash.js134034520206439663 0
 145C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\resizeobserver.js134034520207467419 0
 129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\commander\typings\index.d.ts134034520194845512 0
@@ -1703,6 +1714,7 @@
 145C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\form-attribute.js134034520204062012 0
 120C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\color-name\index.js134034520192129708 0
 119C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\color-name\LICENSE134034520192457129 0
+109C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist\html.b828852a.js134034536986516487 0
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\color-convert\index.js134034520192829701 0
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\color-convert\LICENSE134034520193103284 0
 117C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\clone\.npmignore134034520192154738 0
@@ -1828,12 +1840,9 @@
 143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-counters.js134034520199915957 0
 134C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\error-overlay\src\effects134034520195860119 1
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GN.js134034520204451871 0
-148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\test\fixtures\main-format-mismatch134034520201486767 1
-132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GP.js134034520204467350 0
-155C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_object_without_properties\package.json134034520203020902 0
-164C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure\package.json134034520201279476 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GQ.js134034520204492389 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GR.js134034520204502364 0
+132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GU.js134034520204552232 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\GY.js134034520204593757 0
 150C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\error-overlay\src\utils\getStackFrames.js134034520194295549 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\regions\HK.js134034520204729985 0
@@ -2029,6 +2038,7 @@
 135C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\apng.js134034520195880020 0
 141C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\array-find.js134034520195994806 0
 130C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\profiler\src\Trace.js134034520193911088 0
+133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\LICENSE134034533337718256 0
 141C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\array-flat.js134034520196034707 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\arrow-functions.js134034520196134630 0
 154C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_async_generator_delegate\package.json134034520201024835 0
@@ -2102,6 +2112,7 @@
 153C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-content-visibility.js134034520199897621 0
 152C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs134034520204441901 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-crisp-edges.js134034520199935918 0
+125C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass134034533338026103 1
 150C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js134034520199990841 0
 151C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-deviceadaptation.js134034520200011058 0
 145C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\css-dir-pseudo.js134034520200030969 0
@@ -2386,9 +2397,10 @@
 150C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\requestidlecallback.js134034520207467419 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\resource-timing.js134034520207482718 0
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer\common\LICENSE134034520191795291 0
+139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\lib\modern.js134034533337976225 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\rest-parameters.js134034520207482718 0
-140C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_interop_require_default134034520202557289 1
 154C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs134034520204382917 0
+140C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_interop_require_default134034520202557289 1
 157C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js134034520207592313 0
 138C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\utils\test\collection.test.js134034520194311753 0
 135C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\caniuse-lite\data\features\sdch.js134034520207657661 0
@@ -2557,8 +2569,6 @@
 143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_initializer_warning_helper134034520202506911 1
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_instanceof134034520202532421 1
 141C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_interop_require_wildcard134034520202587174 1
-147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\lib\registerCoreWithSerializer.js134034520199640736 0
-153C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs134034520204331783 0
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.bin\browserslist.ps1134034520209379750 0
 136C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_non_iterable_spread134034520202842025 1
 130C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\_\_object_spread134034520202927302 1
@@ -2643,6 +2653,8 @@
 131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_decorate.mjs134034520204675147 0
 152C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs134034520204266883 0
 166C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs134034520204311839 0
+147C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\lib\registerCoreWithSerializer.js134034520199640736 0
+153C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs134034520204331783 0
 125C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\esm\_set.js134034520200132226 0
 153C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs134034520204431938 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\helpers\src\_class_private_field_set.mjs134034520204457386 0
@@ -2901,8 +2913,6 @@
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\core\Visitor.d.ts134034520192330890 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-babel\src\types.js134034520195060208 0
 121C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@swc\core\Visitor.js134034520192899746 0
-131C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\src\loadDotEnv.js134034520198107615 0
-123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\compressor-raw134034520192879801 1
 123C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\config-default134034520193109735 1
 119C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\diagnostic134034520193541710 1
 122C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\error-overlay134034520195905049 1
@@ -3063,6 +3073,7 @@
 112C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.bin\semver134034520209409952 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\utils\src\countLines.js134034520194690868 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\core\lib\worker.js134034520200754778 0
+129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\lib134034533337996191 1
 130C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\utils\src\Deferred.js134034520195020319 0
 141C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\utils\src\dependency-location.js134034520195159933 0
 136C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\utils\src\getModuleParts.js134034520195544780 0
@@ -3117,6 +3128,10 @@
 137C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-svg\package.json134034520192923177 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-svg\src\SVGTransformer.js134034520192650389 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js134034520192235402 0
+129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\src134034533338016118 1
+139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\src\legacy.js134034533337956284 0
+139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\src\modern.js134034533337986206 0
+148C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-sass\lib\SassTransformer.js134034533338006158 0
 152C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-react-refresh-wrap\package.json134034520193985991 0
 143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-react-refresh-wrap\src134034520193594649 1
 151C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers134034520193756418 1
@@ -3327,6 +3342,7 @@
 149C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-js\src\ScopeHoistingPackager.js134034520195100095 0
 133C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-js\src\utils.js134034520195259870 0
 143C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js134034520192254623 0
+114C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist\html.8c1c22dc.css.map134034536986823151 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-js\lib\dev-prelude.js134034520192943126 0
 139C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-js\lib\DevPackager.js134034520193594649 0
 146C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js134034520194275602 0
@@ -3607,6 +3623,7 @@
 130C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer\lr\dist\constants.d.ts134034520194160826 0
 128C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer\lr\dist\constants.js134034520193166620 0
 125C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer\lr\dist\index.cjs134034520192528192 0
+113C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist\html.b828852a.js.map134034536986823151 0
 127C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer\lr\dist\index.d.cts134034520192923177 0
 124C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer\common\README.md134034520193976014 0
 129C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\@lezer\common\dist\index.cjs134034520192650389 0
@@ -3628,4 +3645,5 @@
 114C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.bin\sass.ps1134034520209409952 0
 116C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.bin\semver.ps1134034520209409952 0
 132C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\node_modules\.bin\update-browserslist-db.ps1134034520209409952 0
-103C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist\index.html134034525647311789 0
+110C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist\html.8c1c22dc.css134034536986516487 0
+103C:\Users\Amanda\Documents\Webbutveckling 2024-2026\Backendutveckling\bck-mom3-webbplats\dist\index.html134034536986516487 0

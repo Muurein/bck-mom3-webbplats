@@ -1,3 +1,57 @@
 @use "base";
 @use "components";/* funkade inte utan @import */
 @import "components";
+
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: base.$font-family-main;
+    font-size: 1.2em;
+    background-color: base.$color-primary;
+}
+
+header {
+    background-color: base.$color-secondary;
+    color: white;
+    height: 80px;
+    align-items: center;
+}
+
+.main-menu {
+    list-style-type: none;
+    display: flex;
+    gap: 2.5em;
+    text-align: center;
+}
+
+.main-menu li {
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover { 
+    color: black;
+}
+
+.youre-here {
+    text-decoration: underline;
+}
+
+main { 
+    background-color: white;
+    color: black;
+    max-width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;
+}
+
