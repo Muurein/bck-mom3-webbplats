@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*" />
+    <title>Moment 3 - lägg till jobb</title>
+
+    <link rel="stylesheet" href="../css/main.scss">
+    <script src="../js/main.js" type="module"></script>
+</head>
+<body>
+    
+    <main>
+        <form>
+            <h2>Lägg till jobb</h2>
+
+            <div>
+                <label for="jobTitle">Jobbtitel:</label>
+                <br>
+                <p>Ex. Prinsessans bästa vän, goomba, padawan</p>
+                <br>
+                <input type="text" id="jobTitle" name="jobTitle">
+            </div>
+
+            <div>
+                <label for="companyName">Företagsnamn:</label>
+                <br>
+                <p>Ex. Disney, Nintendo, Jedi</p>
+                <br>
+                <input type="text" id="companyName" name="companyName">
+            </div>
+
+            <div>
+                <label for="endDate">Avslutningsdatum:</label>
+                <br>
+                <p>Ex. 2020-01-30</p>
+                <br>
+                <input type="text" id="endDate" name="endDate">
+            </div>
+            
+            <div>
+                <label for="description">Jobbeskrivning:</label>
+                <br>
+                <p>Ex. "Vaktade vägen till Bowsers fästning"</p>
+                <br>
+                <input type="text" id="description" name="description">
+            </div>
+
+            <input class="add-button" type="submit" value="Lägg till jobb">
+
+        </form>
+    </main>
+
+</body>
+</html>
