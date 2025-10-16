@@ -769,7 +769,7 @@ async function deleteJob(id) {
     try {
         const response = await fetch(jobURL + `${id}`, {
             method: "DELETE",
-            headers: headersList
+            headers: headerList
         });
         return response.ok;
     } catch (error) {
@@ -799,12 +799,12 @@ function renderJob(jobs) {
         const companyNameTitleEl = document.createElement("p");
         companyNameTitleEl.innerHTML = "<b>F\xf6retagsnamn: </b>";
         const companyNameEl = document.createElement("p");
-        companyNameEl.textContent = job.company_name;
+        companyNameEl.textContent = job.companyName;
         //endDate
         const endDateTitleEl = document.createElement("p");
         endDateTitleEl.innerHTML = "<b>Slutdatum: </b>";
         const endDateEl = document.createElement("p");
-        endDateEl.textContent = job.end_date;
+        endDateEl.textContent = job.endDate;
         //description
         const descriptionTitleEl = document.createElement("p");
         descriptionTitleEl.innerHTML = "<b>Beskrivning:</b>";
@@ -815,7 +815,6 @@ function renderJob(jobs) {
         //delete-knapp
         const deleteJobEl = document.createElement("button");
         deleteJobEl.textContent = "Ta bort";
-        //lägg ihop allt
         //lägger till allt i containerEl
         articleEl.appendChild(jobTitleEl);
         articleEl.appendChild(companyNameTitleEl);
@@ -825,6 +824,7 @@ function renderJob(jobs) {
         articleEl.appendChild(descriptionTitleEl);
         articleEl.appendChild(newLineEl);
         articleEl.appendChild(descriptionEl);
+        articleEl.appendChild(newLineEl);
         articleEl.appendChild(deleteJobEl);
         divEl.appendChild(articleEl);
         //klicka på knappen -> radera jobb -> uppdatera divven

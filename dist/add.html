@@ -8,9 +8,18 @@
     <script src="/html.b828852a.js" type="module"></script>
 </head>
 <body>
+    <header>
+        <nav>
+            <ul class="main-menu">
+                <li><a href="/index.html">Startsida</a></li>
+                <li class="youre-here">Lägg till jobb</li>
+                <li><a href="/about.html">Om oss</a></li>
+            </ul>
+        </nav>
+    </header>
     
-    <main>
-        <form>
+    <main class="main-form">
+        <form action="add.html">
             <h2>Lägg till jobb</h2>
 
             <div>
@@ -45,10 +54,15 @@
                 <input type="text" id="description" name="description">
             </div>
 
-            <input class="add-button" type="submit" value="Lägg till jobb">
+            <input id="add-button" type="submit" value="Lägg till jobb">
 
         </form>
     </main>
+
+    <footer>
+        <p>Amanda Thim - amth2302</p>
+        <p>Moment 3 - NoSQL-databaser </p>
+    </footer>
 
 
 </body></html>

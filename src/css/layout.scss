@@ -45,13 +45,109 @@ a:hover {
     text-decoration: underline;
 }
 
-main { 
-    background-color: white;
-    color: black;
-    max-width: 70%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 4em;
+
+//startsidan
+.main-index { 
+    @include main;
 }
 
+.main-index h1 {
+    margin-bottom: 1.2em;
+    margin-top: 0.6em;
+}
+.main-index article {
+    margin-bottom: 2em;
+    padding-top: 2em;
+    border-top: 10px dotted base.$color-tetiary;
+}
+
+.main-index article h2 {
+    text-decoration: underline;
+}
+
+
+
+
+//ADD.HTML
+.main-form {
+    @include main;
+}
+
+.main-form div {
+    margin-top: 1.5em;
+}
+
+.main-form label {
+    font-weight: 600;
+}
+
+.main-form p {
+    margin-bottom: -15px;
+    font-size: 0.9em;
+}
+
+.main-form input {
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 1.8em;
+    width: 55%;
+}
+
+#add-button {
+    margin-top: 2.5em;
+    border-radius: 0px;
+    width: 100px;
+    height: 30px;
+}
+
+footer {
+    background-color: base.$color-secondary;
+    color: white;
+    text-align: center;
+    height: auto;
+    padding: 1.2em;
+    margin-top: 3em;
+}
+
+
+
+
+
+//TABLET
+@media (min-width: 600px) {
+    // body {
+    //     background-color: aqua;
+    // }
+
+    .main-index {
+        max-width: 60%;
+    }
+
+    .main-index article {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+
+
+
+//DESKTOP
+@media (min-width: 1024px) {
+    // body {
+    //     background-color:bisque;
+    // }
+
+    .main-index {
+        max-width: 40%;
+    }
+
+    .main-form input {
+        border-radius: 10px;
+        border: 1px solid black;
+        height: 1.8em;
+        width: 25%;
+    }
+}

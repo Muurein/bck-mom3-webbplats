@@ -67,7 +67,7 @@ async function deleteJob(id) {
     try {
         const response = await fetch(jobURL + `${id}`, {
             method: "DELETE",
-            headers: headersList
+            headers: headerList
         });
 
         return response.ok;
@@ -107,14 +107,14 @@ function renderJob(jobs) {
         companyNameTitleEl.innerHTML = "<b>Företagsnamn: </b>";
 
         const companyNameEl = document.createElement("p");
-        companyNameEl.textContent = job.company_name;
+        companyNameEl.textContent = job.companyName;
 
         //endDate
         const endDateTitleEl = document.createElement("p");
         endDateTitleEl.innerHTML = "<b>Slutdatum: </b>";
 
         const endDateEl = document.createElement("p");
-        endDateEl.textContent = job.end_date;
+        endDateEl.textContent = job.endDate;
 
         //description
         const descriptionTitleEl = document.createElement("p");
@@ -130,8 +130,8 @@ function renderJob(jobs) {
         const deleteJobEl = document.createElement("button");
         deleteJobEl.textContent = "Ta bort";
 
-        //lägg ihop allt
-                //lägger till allt i containerEl
+        
+        //lägger till allt i containerEl
         articleEl.appendChild(jobTitleEl);
         articleEl.appendChild(companyNameTitleEl);
         articleEl.appendChild(companyNameEl);
@@ -140,6 +140,7 @@ function renderJob(jobs) {
         articleEl.appendChild(descriptionTitleEl);
         articleEl.appendChild(newLineEl);
         articleEl.appendChild(descriptionEl);
+        articleEl.appendChild(newLineEl);
         articleEl.appendChild(deleteJobEl);
 
         divEl.appendChild(articleEl);
