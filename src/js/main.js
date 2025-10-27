@@ -1,3 +1,5 @@
+const { render } = require("sass");
+
 let headerList = {
     "Accept": "*/*",
     "Content-Type": "application/json"
@@ -63,7 +65,7 @@ async function createJob(jobTitle, companyName, endDate, description) {
 //radera jobben
 async function deleteJob(id) {
     try {
-        const response = await fetch(jobURL + `${id}`, {
+        const response = await fetch(`${jobURL}/${id}`, {
             method: "DELETE",
             headers: headerList
         });
@@ -145,7 +147,7 @@ function renderJob(jobs) {
 
         //klicka på knappen -> radera jobb -> uppdatera divven
         deleteJobEl.onclick = () => {
-            deleteJob(job.id).then(() => {
+            deleteJob(job._id).then(() => {
                 getJob().then(renderJob);
             });
         }
