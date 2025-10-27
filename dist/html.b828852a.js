@@ -207,11 +207,11 @@
       });
     }
   }
-})({"93v64":[function(require,module,exports,__globalThis) {
+})({"2noyt":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 1234;
+var HMR_SERVER_PORT = 57704;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -723,7 +723,6 @@ window.onload = ()=>{
     getJob().then((result)=>{
         renderJob(result);
     });
-    //lyssna efter att infon från formuläret skickas 
     document.querySelector("form").addEventListener("submit", formValue);
 };
 //hämta in jobben
@@ -733,9 +732,8 @@ async function getJob() {
             method: "GET",
             headers: headerList
         });
-        //om ett fel inträffar
+        //validering
         if (!response.ok) throw new Error(`Det har intr\xe4ffat ett HTTP-fel. Status: ${response.status}`);
-        //om allt går som det ska
         const result = await response.json();
         return result;
     } catch (error) {
@@ -836,6 +834,6 @@ function renderJob(jobs) {
     });
 }
 
-},{}]},["93v64","lhpGb"], "lhpGb", "parcelRequire221b", {})
+},{}]},["2noyt","lhpGb"], "lhpGb", "parcelRequire221b", {})
 
 //# sourceMappingURL=html.b828852a.js.map

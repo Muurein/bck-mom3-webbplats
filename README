@@ -1,0 +1,15 @@
+# Moment 3 - NoSQL-databser, Backend-baserad webbutveckling
+Webbplatsen låter användaren skriva in sina arbetserfarenheter i ett formulär och informationen de skriver in visas sedan på startsidan.
+
+Jobben sparas i databasen MongoDB pch använder sig av CRUD-operationer.
+
+## Undersidor 
+- Startsidan: här visas användarens information
+- Lägg till jobb: här lägger användaren till sina arbetslivserfarenheter i ett forulär. De fyller i  information såsom jobbtitel, företagsnamn, slutadtum och en förklaring av jobbet.
+- Om oss: en beskriving av webbplatsen och mina egna slutsatser
+
+## CRUD-operationer:
+Webbplatsen använder följande CRUD-operationer:
+- GET: hämtar jobben och visar dem på startsidan
+- POST: skapar nya jobb med formuläret
+- DELETE: ta bort jobben genom att klicka på en tillhörande knapp

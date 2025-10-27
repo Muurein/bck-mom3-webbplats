@@ -10,7 +10,6 @@ window.onload = () => {
         renderJob(result)
     })
 
-    //lyssna efter att infon från formuläret skickas 
     document.querySelector("form").addEventListener("submit", formValue);
 }
 
@@ -22,12 +21,11 @@ async function getJob() {
             headers: headerList
         });
 
-        //om ett fel inträffar
+        //validering
         if(!response.ok) {
             throw new Error(`Det har inträffat ett HTTP-fel. Status: ${response.status}`);
         }   
 
-        //om allt går som det ska
         const result = await response.json();
 
         return result;
@@ -94,7 +92,7 @@ function renderJob(jobs) {
     const divEl = document.getElementById("jobsHere");
     divEl.innerHTML = "";
 
-    jobs.forEach(job => { //lägg till klass på titlarna så det går att göra dem till bold i css
+    jobs.forEach(job => { 
         //article
         const articleEl = document.createElement("article");
 

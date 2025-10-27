@@ -13,6 +13,8 @@ body {
     background-color: base.$color-primary;
 }
 
+
+// HEADER OCH NAVIGERING 
 header {
     background-color: base.$color-secondary;
     color: white;
@@ -46,7 +48,8 @@ a:hover {
 }
 
 
-//startsidan
+
+//STARTSIDAN
 .main-index { 
     @include main;
 }
@@ -111,20 +114,45 @@ footer {
 
 
 
+//ABOUT.HTML
+.main-about {
+    @include main;
+}
+
+.main-about p {
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.8em;
+}
+
+.main-about h2 {
+    margin-top: 1em;
+}
+
+.about-link {
+    color: base.$color-secondary;
+    text-decoration: underline;
+}
+
 
 
 //TABLET
 @media (min-width: 600px) {
-    // body {
-    //     background-color: aqua;
-    // }
 
-    .main-index {
+    .main-index, .main-form, .main-about {
         max-width: 60%;
     }
 
     .main-index article {
         width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .main-about p {
+        width: 70%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -136,11 +164,8 @@ footer {
 
 //DESKTOP
 @media (min-width: 1024px) {
-    // body {
-    //     background-color:bisque;
-    // }
 
-    .main-index {
+    .main-index, .main-form, .main-about {
         max-width: 40%;
     }
 
@@ -149,5 +174,11 @@ footer {
         border: 1px solid black;
         height: 1.8em;
         width: 25%;
+    }
+
+    .main-about p {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
     }
 }

@@ -117,8 +117,38 @@ footer {
   padding: 1.2em;
 }
 
+.main-about {
+  color: #000;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 50px;
+  max-width: 70%;
+  height: auto;
+  margin-top: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2em;
+}
+
+.main-about p {
+  text-align: center;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: .8em;
+}
+
+.main-about h2 {
+  margin-top: 1em;
+}
+
+.about-link {
+  color: #099;
+  text-decoration: underline;
+}
+
 @media (width >= 600px) {
-  .main-index {
+  .main-index, .main-form, .main-about {
     max-width: 60%;
   }
 
@@ -127,10 +157,16 @@ footer {
     margin-left: auto;
     margin-right: auto;
   }
+
+  .main-about p {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 @media (width >= 1024px) {
-  .main-index {
+  .main-index, .main-form, .main-about {
     max-width: 40%;
   }
 
@@ -139,6 +175,12 @@ footer {
     border-radius: 10px;
     width: 25%;
     height: 1.8em;
+  }
+
+  .main-about p {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 /*# sourceMappingURL=html.8c1c22dc.css.map */
